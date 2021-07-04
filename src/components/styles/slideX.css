@@ -1,0 +1,44 @@
+/* behind div */
+.slideXbehind-enter {
+    transform: translateX(-100vw);
+}
+
+.slideXbehind-enter-active {
+    transform: translateX(0vw);
+    transition: transform .6s ease-out;
+    transition-delay: .3s;
+}
+
+
+/* middle div */
+.slideXmiddle-enter {
+    transform: translateX(100vw);
+}
+
+.slideXmiddle-enter-active {
+    transform: translateX(0vw);
+    transition: transform .6s ease-out;
+    transition-delay: .3s;
+}
+
+.slideXmiddle-exit-active {
+    transform: translateX(-100vw);
+    transition: transform .6s ease-in;
+}
+
+
+/* front div */
+.slideXfront-enter {
+    transform: translateX(100vw);
+}
+
+.slideXfront-enter-active {
+    transform: translateX(0vw);
+    transition: transform .6s ease-out;
+    transition-delay: .3s;
+}
+
+.slideXfront-exit-active {
+    transform: translateX(100vw);
+    transition: transform .6s ease-in;
+}

@@ -1,0 +1,14 @@
+.slideY-enter {
+    transform: translateY(100vh);
+}
+
+.slideY-enter-active {
+    transform: translateY(0vh);
+    transition: transform .6s ease-out;
+    transition-delay: .3s;
+}
+
+.slideY-exit-active {
+    transform: translateY(100vh);
+    transition: transform .6s ease-in;
+}

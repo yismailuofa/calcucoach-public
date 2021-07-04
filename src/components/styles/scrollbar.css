@@ -1,0 +1,24 @@
+@media (max-width: 783px) {
+  .textBox {
+      height: 45vh !important;
+      margin-top: -15vh !important;
+  }
+}
+
+.customScroll::-webkit-scrollbar {
+  background-color: white;
+
+  border-radius: 10px;
+
+  width: 20px;
+
+  -webkit-appearance: none;
+
+}
+.customScroll::-webkit-scrollbar-thumb {
+  background-color: #4a86ba;
+
+  border-radius: 10px;
+
+  border: 5px solid white;
+}

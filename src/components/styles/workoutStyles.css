@@ -1,0 +1,9 @@
+@media (max-width: 783px) {
+    .workoutContainer {
+        height: 45vh !important;
+    }
+
+    .workoutQuestion {
+        margin-top: -100px !important;
+    }
+  }
