@@ -5,6 +5,8 @@ anybody to do the same. We were inspired to develop this app after being
 quarantined for so long during the COVID-19 pandemic. We hope you enjoy and
 happy working out!
 
+## Implementations
+Calcucoach was built with React, styled with raw CSS, and deployed with Netlify.
 ## Credits
 Background Photo by <a href="https://unsplash.com/@gabinvallet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabin Vallet</a> on <a href="https://unsplash.com/t/health?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
