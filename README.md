@@ -1,5 +1,5 @@
 ## Description
-Calcucoach is a free web app that generates workouts customized for you. 
+<a href="https://calcu.coach">Calcucoach</a> is a free web app that generates workouts customized for you. 
 We love living healthy lifestyles and we wanted to make it super easy for
 anybody to do the same. We were inspired to develop this app after being
 quarantined for so long during the COVID-19 pandemic. We hope you enjoy and
